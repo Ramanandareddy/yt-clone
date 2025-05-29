@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+.logo.container {
+  display: flex;
+  align-items: center;
+    cursor: pointer;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
